@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Ning Gao's Resume
-url: 'http://ningggao.github.io'
+url: '你好，我是高宁！'
 baseurl: '/' #change it according to your repository name
 description: A beautiful Jekyll theme for creating resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
