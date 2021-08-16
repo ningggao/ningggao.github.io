@@ -29,23 +29,18 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Fluent
+
+      - idiom: Mandarin
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Basketball
         link:
 
-      - item: Snowboarding
+      - item: Gym
         link:
 
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
@@ -57,9 +52,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Computer Science and Engineering
+      university: University at Buffalo, The State University of New York
+      time: 2020 - 2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,9 +63,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Computer Science and Technology
+      university: Zhejiang University, Ningbo Institute of Technology 
+      time: 2016 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
